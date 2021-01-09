@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "845662873518",
+    "firebase_url": "https://green-house-bff11.firebaseio.com",
+    "project_id": "green-house-bff11",
+    "storage_bucket": "green-house-bff11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845662873518:android:efa22fc84d99aeb98dca3f",
+        "android_client_info": {
+          "package_name": "com.example.greenhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "845662873518-eietabrpovmts6cj2u9a40758e0a1iad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_M6SI9TbnII6sIKavJCA55A6WthViDbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "845662873518-eietabrpovmts6cj2u9a40758e0a1iad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

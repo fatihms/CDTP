@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Green House</string>
+
+    <string-array name="greenhouses">
+        <item>Sera 1</item>
+        <item>Sera 2</item>
+        <item>Sera 3</item>
+        <item>Sera 4</item>
+    </string-array>
+
+    <string-array name="date">
+        <item>Saat</item>
+        <item>Gün</item>
+        <item>Hafta</item>
+        <item>Ay</item>
+    </string-array>
+
+</resources>
